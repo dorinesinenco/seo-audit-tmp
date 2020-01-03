@@ -16,7 +16,7 @@
        * deci o buna parte din URL-uri sunt "diluate" si se dubleaza partial (coeficientul de unicitate e foarte scazut!)
        * ca sa fie mai clar, aduc pentru comparatie un screen legat de frecventa cautarilor vs compozitia frazei de cautare:
         
-          ![10](10)  
+          ![10](10.png)  
 
           zero cautari utilizand combinatia de cuvinte "category fashion and beauty", cu cat mai laconic e textul in punctele cheie ale unei pagini, cu atat mai revelant va fi rezultatul! 
 
@@ -56,4 +56,4 @@
 
    ![9](9.png) 
 
-   1. 
+  
