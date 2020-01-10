@@ -148,4 +148,17 @@ MOB - regim mobile, DESK - desktop
    4. Care este reason-ul sa apara aceasta inscriptie in versiunea Mobila - atunci cand ecran e si asa putin, in timp ce pe versiunea Desktop - ea lipseste?
 
    ![9-a](9-a.png) 
-  
+
+
+7. Accesibilitate si Crawling
+   1. MP, CP -  Infinite SCroll (efectul de incarcare infinita prin Javascript) nu este optimizat pentru Google si alte motoare de cautare. 
+    proof, daca va uitati pe imagine, am scrollat pana s-a incarcat prin JS un careva post (aflat mai jos de primul ecran, (postarea are 3 saptamani, deci trebuia deja sa apara in google) - dupa care rulez cautarea dupa fraza cheie exacta indicand site-ul sursa) - zero rezultate!:
+
+    ![21](21.png)
+
+    in timp ce postarea MUUULT mai noua (4 zile) incarcata static pe primul ecran - este vizibila
+
+    ![22](22.png)
+
+   SOLUTIE - sa se plaseze un link (e bine si pentru UX) cu adresa urmatorului segment de continut, - la moment nici un motor de cautare nu incarca urmatoare pagina daca nu primeste o adresa cu aceasta pagina
+   sau scoasa in sitemap.xml sau plasat un "a href" cu adresa urmatoarei pagini CHIAR daca ea se incarca automat in browser! 

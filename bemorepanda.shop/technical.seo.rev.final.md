@@ -175,3 +175,21 @@ MOB - regim mobile, DESK - desktop
       1. MOB, Urmam pasii: Intru pe catalog, dau mai multe scroll-uri pentru a vedea ce produse mai sunt, ajung la al 2-lea, la al 3-lea ecran, vad un produs ce ma intereseaza, intru pe el, citesc, vreau sa revin inapoi in acelasi loc de unde am trecut pe produs, cum fac :D?
    3. CART INTERACTION
       1. MOB, Urmam pasii: Intru pe catalogul produselor, dau scoll vreo 2-3 pagini in jos, selectez din catalog un produs, mai dau scroll, mai selectez alt produs si pun in cos, vad iconita cosului,  vreau sa verific ce am in cos, apas pe cos, nimeresc pe pagina cosului - E OK am vazut ce produse am, vreau sa revin inapoi la la catalog in pozitia unde ma aflam, ca sa continui selectia - cum fac? :D 
+
+
+
+7. Accesibilitate si Crawling
+   1. A fost depistata aceiasi problema cu infinite scroll
+   * RECOMANDAREA este sa se treaca la un stil standard de paginare. Adica - luam exemplu de la titani
+
+     ![20](20.png)
+     ![21](21.png)
+
+     MOTIVUL este dublu - e mai usor sa fie accesat de google si simultan de utilizator.
+     Chestia e ca comportamentul utilizatorului pe un BLOG site si pe un SHOP difera un pic.
+     Daca in BLOG, poti citi o postare, o tii minte si nu prea mai ai nevoie sa o cauti, pe un SHOP de obicei tre sa ALEGI produse, asta presupune RECURENTA - adica revenirea la acel produs de mai multe ori.
+     Cum poate utilizatorul sa tina minte pe ce pagina a gasit produsul?
+     Cum poate utilizatorul sa treaca direct pe acea pagina?
+     Dar daca produsul a fost gasit dupa aproximativ 9-10 scroll-uri? atunci cand revenim la produs dupa reincarcarea paginii tre sa facem 10 scroll-uri ca sa apara?
+
+     
