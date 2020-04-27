@@ -139,7 +139,7 @@ MOB - regim mobile, DESK - desktop
         4. Sa se verifice validatea datelor adaugate prin "https://search.google.com/structured-data/testing-tool" 
 
 
-6. UX / UI
+6. +SOLVED UX / UI
    1. MOB, MP,CP,PP - SEARCH BAR nu este direct accesibil, sute de review-uri vorbesc despre faptul ca utilizatorii pr site-uri de tip blog folosesc cautarea foarte des, cel putin sa fie scoasa in bara de sus direct - pictograma
          ![20](20.png) 
    2. Iarasi SEARCH INTERACTION - pentru a cauta, tre sa intru in meniu, sa activez "search" si abia apoi sa caut, - recomandate - sa se activeze campul de cautare automat!     
