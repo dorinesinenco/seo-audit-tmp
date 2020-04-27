@@ -7,7 +7,7 @@ PRESCURATI: MP - main page, CP - category's page, PP - post's page
 MOB - regim mobile, DESK - desktop
 
 1. SERVER & HOSTING
-   1. HTTPS/SSL - este
+   1. ++ HTTPS/SSL - este
    2. !!! Nu toate HEADERS (HTTPS) sunt setate corect pentru cerintele HSTS (Google 2014+)
 
 2. Resource OPTIMIZATION
