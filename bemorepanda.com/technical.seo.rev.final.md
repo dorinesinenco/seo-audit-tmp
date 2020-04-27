@@ -76,9 +76,9 @@ MOB - regim mobile, DESK - desktop
 
 3. URL & DOMAIN
    1. PP, IMBUNATATIRE URL 
-      1. sa zicem ca am intrat pe pagina produsului "Celebrity"
+      1. sa zicem ca am intrat pe pagina categoriei "Celebrity"
          * aceasta are URL: "https://bemorepanda.com/en/category/celebrity" 
-      2. sa zicem ca am intrat pe pagina produsului "Health & Fitness"
+      2. sa zicem ca am intrat pe pagina categoriei "Health & Fitness"
          * aceasta are URL: "https://bemorepanda.com/en/category/health-fitness" 
          * ACESTE DOUA URL-uri (si multe altele) dubleaza peste 70% din lungimea lor, SOLUTIE - eliminarea cuvantului "category" din adrese
          * HINT - daca ar fi posibil programatic (sau din adminca) sa se poata in loc de "category" adauga cuvinte cheie in dependenta de categorie, ca sa formeze fraze cheie gen: "/life-of/celebrity" sau "/about/health-fitness", etc.. ?
