@@ -7,7 +7,7 @@ PRESCURATI: MP - main page, CP - category's page, PP - post's page
 MOB - regim mobile, DESK - desktop
 
 1. SERVER & HOSTING
-   1. ++ HTTPS/SSL - este
+   1. +SOLVED HTTPS/SSL - este
    2. !!! Nu toate HEADERS (HTTPS) sunt setate corect pentru cerintele HSTS (Google 2014+)
 
 2. Resource OPTIMIZATION
@@ -110,7 +110,7 @@ MOB - regim mobile, DESK - desktop
    3. elementul MAIN nu este utilizat corect - in el apar elemente care SE REPETA PE FIECARE PAGINA! desi acesta tre sa contina partea unica a continutului fiecarei pagini! (-1)
       ![3-a](3-a.png)    
    4. Lipsesc elemente semantice esentiale: HEADER, FOOTER, SECTION, ASIDE, ARTICLE
-   5. heading-urile statice contin text IRELEVANT (h1,h2,h3)    
+   5. +SOLVED heading-urile statice contin text IRELEVANT (h1,h2,h3)    
       
       ![4-a](4-a.png) 
    6. care este reason-ul acest element - pana sa se incarce dinamic HTML prin javascript sa contina H1 - cu video is being processed... ? dupa care in loc de H1 sa se incarce un link aici cu titlul? 
@@ -118,11 +118,11 @@ MOB - regim mobile, DESK - desktop
       ![11-a](11-a.png)  
 
       in cel mai rau caz acesta ar fi un text bine de plasat in H3 sau H2 
-   7. MP, CP - Fiecare postare listata in pagina principala si in categorii - NU ARE TITLU   
+   7. +SOLVED MP, CP - Fiecare postare listata in pagina principala si in categorii - NU ARE TITLU   
       ![12](12.png) 
       RECOMANDABIL e sa se utilizez h3, se pierde esenta titlutlui in intregul text!
      
-   8. PP - Pagina postarii, de ce titlul nu este imbracat in H1? nu este acesta CHEIA postarii?
+   8. +SOLVED PP - Pagina postarii, de ce titlul nu este imbracat in H1? nu este acesta CHEIA postarii?
       ![13](13.png) 
       RECOMANDABIL e sa se utilizeze h1, se pierde esenta titlutlui in intregul text!
    9. PP - Pagina postarii, sectiunea nu are titlu 
