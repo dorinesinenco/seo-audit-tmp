@@ -162,3 +162,6 @@ MOB - regim mobile, DESK - desktop
 
    SOLUTIE - sa se plaseze un link (e bine si pentru UX) cu adresa urmatorului segment de continut, - la moment nici un motor de cautare nu incarca urmatoare pagina daca nu primeste o adresa cu aceasta pagina
    sau scoasa in sitemap.xml sau plasat un "a href" cu adresa urmatoarei pagini CHIAR daca ea se incarca automat in browser! 
+8. Google PAGE SPEED / INSIGHTS
+  1. s-a intamplat exact ce am prognozat, viteza pentru mobil a scazut drastic odata ce site-ul a inceput sa fie vizitat... nota din partea google 30/100 puteti [verifica aici](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fbemorepanda.com%2Fen&tab=mobile) 
+  2. daca va creste traficul si mai mult, de la 27 de secunde pentru o pagina - incarcarea va dura pana la 60 de secunde - rezultat - penalitati din partea google (demoting slow pages since 2013) si utilizatori nemultumiti
