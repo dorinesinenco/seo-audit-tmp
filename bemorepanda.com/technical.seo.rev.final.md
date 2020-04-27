@@ -150,7 +150,7 @@ MOB - regim mobile, DESK - desktop
    ![9-a](9-a.png) 
 
 
-7. Accesibilitate si Crawling
+7. +SOLVED - due to the populatiry & sharing / Accesibilitate si Crawling
    1. MP, CP -  Infinite SCroll (efectul de incarcare infinita prin Javascript) nu este optimizat pentru Google si alte motoare de cautare. 
     proof, daca va uitati pe imagine, am scrollat pana s-a incarcat prin JS un careva post (aflat mai jos de primul ecran, (postarea are 3 saptamani, deci trebuia deja sa apara in google) - dupa care rulez cautarea dupa fraza cheie exacta indicand site-ul sursa) - zero rezultate!:
 
